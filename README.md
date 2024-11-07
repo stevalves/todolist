@@ -19,8 +19,10 @@ O projeto ToDo List foi desenvolvido para gerenciar tarefas de forma simples e e
    ```bash
    git clone git@github.com:stevalves/todolist-php.git
 
-2. Com o xampp instalado, você irá rodar o apache e o mysql;
+2. Com o `xampp` instalado, você irá rodar o apache e o mysql;
 
-3. No diretório do xampp, dentro do htdocs você ira colar o repositório clonado;
+3. No diretório do `xampp`, dentro do htdocs você ira colar o repositório clonado;
 
-4. Para finalizar, entre em localhost/todolist pelo seu navegador.
+4. Abrindo o `localhost/phpmyadmin` você ira importar o sql que se encontra dentro do repositório;
+
+5. Para finalizar, entre em `localhost/todolist` pelo seu navegador.
